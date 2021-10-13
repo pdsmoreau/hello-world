@@ -1,2 +1,6 @@
 # hello-world
-This repository is a part of my studies in dataa science and will be used to store ideas, study topics and to communicate with all
+
+Hi, community
+
+Pedro here, I am a new data science student. I like sports, such as basketball and brazilian jiu jitsu and I love to talk about food.
+
